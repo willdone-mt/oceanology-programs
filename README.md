@@ -10,6 +10,7 @@ WillDone-MT's place to share and store oceanology resource and programs. License
 2. How to Download
 
 # Overview
+This repository is intended to help other students or common users understand the ocean and life in it via programs, even also understanding the programs itselves! 
 
 # File Labels
 
