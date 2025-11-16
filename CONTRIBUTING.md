@@ -15,6 +15,9 @@ but if you found it not working, you can either:
   - by opening a pull request via **forking**
 
 # Issues
+Open an issue if:
+- mainly, you found an issue within the scripts/programs
+- you have idea about marine science  programming for this repository
 
 # Pull Requests
 As a non-collaborator, you have to **fork** this repository and make changes there to open a **pull request**. Myself considered this as a long waay to change the codes.
