@@ -1,6 +1,6 @@
 > OPEN .MD FILES IN MARKDOWN PREVIEW FOR BETTER VISUALS!
 # OCEANOLOGY-PROGRAMS
-WillDone-MT's place to share and store oceanology resource and programs. Licensed with MIT license
+WillDone-MT's place to share and store oceanology(marine) resource and programs. Licensed with MIT license
 
 > read the indonesian README file [here](README_id.md)!
 
